@@ -1,6 +1,7 @@
 ## Team of Examination Branch
 
-![Display Picture](logo/logo.png)
+![Display picture](Logo/Logo.png)
+
 
 - COE
 
