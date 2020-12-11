@@ -5,17 +5,19 @@
 
 - COE
 
-- Deputy Controller (Conduct)
+- Deputy Controller *(Conduct)*
 
-- Deputy Controller (Question Paper Setting)
+- Deputy Controller *(Question Paper Setting)*
 
-- Deputy Controller (Evaluation)
+- Deputy Controller *(Evaluation)*
 
-- Deputy Controller (Decoding and results)
+- Deputy Controller *(Decoding and results)*
 
 - Assistant Registrar 
 
-| Sr. No. | Role                        |person assigned     |
+
+
+| Sr. No. | Role                        |Duty assigned to     |
 | ------- | -----------                 | --------------- |
 | 1       | Deputy Controller (Conduct) | Dr. Harpreet Kaur Grewal|
 | 2       | Deputy Controller (Question Paper Setting)|Dr. Randhir Singh|     
