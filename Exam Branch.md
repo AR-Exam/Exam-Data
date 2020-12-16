@@ -21,8 +21,9 @@
 | ------- | -----------                 | --------------- |
 | 1       | Deputy Controller (Conduct) | Dr. Harpreet Kaur Grewal|
 | 2       | Deputy Controller (Question Paper Setting)|Dr. Randhir Singh|     
-| 3       | Deputy Controller (Evaluation)      | Dr. Harmeet Singh |
-| 4       | Assistant Registrar         | Ms. Jaspreet Kaur        |
+| 3       | Deputy Controller (Evaluation)      | Dr. Harmeet Singh 
+| 4       | Deputy Controller (Decoding and Results)| Dr. Vivek Thapar|      
+| 5       | Assistant Registrar         | Ms. Jaspreet Kaur        |
 
 
 
