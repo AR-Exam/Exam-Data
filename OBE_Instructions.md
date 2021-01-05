@@ -1,4 +1,4 @@
-**INSTRUCTIONS FOR ONLNE REGULAR EXAMINATION w.e.f. 12th JAN 2021**
+**INSTRUCTIONS FOR ONLINE REGULAR EXAMINATION w.e.f. 12th JAN 2021**
 
 In view of the prevailing situation of Covid-19 Pandemic, it is hereby notified to all concerned that examinations cannot be conducted in the conventional mode. Keeping health of all concerned on top priority, it has been decided that, Objective type (Like MCQ, fill in the blank, true/false, match the following, drop down, numerical answer type etc.), Open Book Examinations (OBE) shall be adopted as an alternative mode of examination for the students. Following information is for the students who are to appear for End Semester Examination (ESE) Session Nov 2020:
 
