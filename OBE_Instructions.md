@@ -1,6 +1,6 @@
 **INSTRUCTIONS FOR ONLINE REGULAR EXAMINATION w.e.f. 12th JAN 2021**
 
-In view of the prevailing situation of Covid-19 Pandemic, it is hereby notified to all concerned that examinations cannot be conducted in the conventional mode. Keeping health of all concerned on top priority, it has been decided that, Objective type (Like MCQ, fill in the blank, true/false, match the following, drop down, numerical answer type etc.), Open Book Examinations (OBE) shall be adopted as an alternative mode of examination for the students. Following information is for the students who are to appear for End Semester Examination (ESE) Session Nov 2020:
+In view of the prevailing situation of Covid-19 Pandemic, it is hereby notified to all concerned that examinations cannot be conducted in the conventional mode. Keeping health of all concerned on top priority, it has been decided that, Objective type (Like MCQ, fill in the blank, true/false, match the following, drop down, numerical answer type etc.), ~Open Book Examinations (OBE)~ shall be adopted as an alternative mode of examination for the students. Following information is for the students who are to appear for End Semester Examination (ESE) Session Nov 2020:
 
 **Read All Instructions Carefully:**
 
@@ -20,7 +20,7 @@ In view of the prevailing situation of Covid-19 Pandemic, it is hereby notified 
 **INFORMATION REGARDING QUESTION PAPER:**
 
 1. For UG Examination, the question paper will have two parts of questions. Part A will contain 40 questions of ONE mark each and part B will be having 10 questions of TWO marks each. Total marks will be 60 for every paper.
-2. For PG examination The question paper will contain 1 mark, 2 marks, 3 mark and 4 mark questions in any combination, such that total marks of all the questions matches with maximum marks allotted to the subject. One such combination for question paper of 100 marks is Section-A having 10 questions of 1 mark, Section-B 10 questions of 2 marks each, Section-C 10 questions of 3 marks each and Section-D having 10 questions of 4 marks each. All questions will be objective type questions (Like MCQ, fill in the blank, true/false, match the following, drop down, numerical answer type etc.). There will be no negative marking and duration of examination will be 2 hours.
+2. For PG examination The question paper will contain 1 mark, 2 marks, 3 mark and 4 mark questions in any combination, such that total marks of all the questions matches with maximum marks allotted to the subject. One such combination for question paper of 100 marks is Section-A having 10 questions of 1 mark, Section-B 10 questions of 2 marks each, Section-C 10 questions of 3 marks each and Section-D having 10 questions of 4 marks each. All questions will be objective type questions (Like MCQ, fill in the blank, true/false, match the following, drop down, numerical answer type etc.). There will be no negative marking and duration of examination will be 2 hours. ~However, the examination window will remain open for 3 hours.~
 3. There will be no internal or external choice in the question paper. All questions will be compulsory.
 4. Immediately after submitting the online question paper (also called as quiz), the student has to upload the pdf file of the rough work done during the examination. Please write your University Roll Number, Name, Branch, subject code and Paper Id on the rough work. If no rough work is done by the student in the examination, then he/she will upload a blank document on which all student details will be written with a comment that &quot;No rough work done during the examination.&quot;
 5. There will be no negative marking.
@@ -32,4 +32,3 @@ In view of the prevailing situation of Covid-19 Pandemic, it is hereby notified 
 Controller of Examination
 
 Guru Nanak Dev Engineering College, Ludhiana
-
