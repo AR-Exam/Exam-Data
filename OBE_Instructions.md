@@ -1,6 +1,6 @@
 **INSTRUCTIONS FOR ONLINE REGULAR EXAMINATION w.e.f. 12th JAN 2021**
 
-In view of the prevailing situation of Covid-19 Pandemic, it is hereby notified to all concerned that examinations cannot be conducted in the conventional mode. Keeping health of all concerned on top priority, it has been decided that, Objective type (Like MCQ, fill in the blank, true/false, match the following, drop down, numerical answer type etc.), on line examinations shall be adopted as an alternative mode of examination for the students. Following information is for the students who are to appear for End Semester Examination (ESE) Session Nov 2020:
+In view of the prevailing situation of Covid-19 Pandemic, it is hereby notified to all concerned that examinations cannot be conducted in the conventional mode. Keeping health of all concerned on top priority, it has been decided that, Objective type (Like MCQ, fill in the blank, true/false, match the following, drop down, numerical answer type etc.), on line examinations proctored (through web-camera) shall be adopted as an alternative mode of examination for the students. Following information is for the students who are to appear for End Semester Examination (ESE) Session Nov 2020:
 
 **Read All Instructions Carefully:**
 
@@ -9,6 +9,7 @@ In view of the prevailing situation of Covid-19 Pandemic, it is hereby notified 
 1. It is the duty of student to ensure seamless internet connection at his/her location during the examination. If the same is not possible to arrange on their own for some candidates, then they can move to GNDEC campus during the examination session.
 1. You must a good (or arrange) decent Intenent Access Device with latest browser, and working web camera
 1. Ensure sufficient (with factor of safety and redundancy) power backup to keep your devices and Internet running for the duration of examination.
+1. Whosoever does not want to appear for online, he/she may appear in conventional mode examination, likely to be held in Feb/March 2021.
 
 **INFORMATION REGARDING QUESTION PAPER:**
 
