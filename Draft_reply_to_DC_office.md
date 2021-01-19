@@ -1,11 +1,14 @@
 To
 The Office of Deputy Commissioner
+
 M.A. Branch
+
 Ludhiana.
 
 Subject: Regarding declaration of End Semester Examination Reappear Results
 
 Respected Sir
+
 Please refer to your letter no. 43/M.A. dated: 05/01/2021 regarding declaration of End Semester Examination reappear results.
 
 We are very well aware of the state of students and its’ possible impact on their career.
