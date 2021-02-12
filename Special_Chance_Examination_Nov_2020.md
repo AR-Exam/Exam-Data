@@ -1,16 +1,16 @@
 Examination Branch
 
-No. COE/154/.........Dated:.........................
+No. COE/154/8892 Dated: 10/02/2021
 
 Notice
 
-As per the guidelines from IKGPTU, examination branch of Guru Nanak Dev Engineering College is going to conduct special chance examination for the students who couldn’t pass their degree within stipulated period (as per the list attached). The fresh applications to avail special chance examination will be accepted from 05-02-2021 to 10-02-2021. Instructions for submitting the Examination Forms are as under-
+As per the guidelines from IKGPTU, examination branch of Guru Nanak Dev Engineering College is going to conduct special chance examination for the students who couldn’t pass their degree within stipulated period (as per the list attached). The fresh applications to avail special chance examination will be accepted from 10-02-2021 to 16-02-2021. Instructions for submitting the Examination Forms are as under-
 
 1.	Students can download Examination Form from  [Special Chance Exam Form Nov-2020](SCF.pdf)
 
 2.	Students should submit only one examination form for all semesters.
 
-3.	Duly filled Examination form (one recent colored photograph pasted on the form) along with examination fee Rs. 10,000/- (Non-Refundable) per subject must be submitted by 10-02-2021.
+3.	Duly filled Examination form (one recent colored photograph pasted on the form) along with examination fee Rs. 10,000/- (Non-Refundable) per subject must be submitted by 16-02-2021.
 
 4.	Fee should be submitted only in the form of DD in favor of Principal, GNDEC payable at Ludhiana.
 
