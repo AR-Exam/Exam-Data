@@ -4,7 +4,7 @@ No. COE/156/8913  Dated:12/02/2021
 
 Notice
 
-As approved in 9th Academic Council Meeting held on 04.06.2018 vide Agenda No.9.8(5), regarding improvement of division i.e. from 2nddivision to 1st division (copy attached), Examination Branch of Guru Nanak Dev Engineering College is going to conduct examination for the students of UG and PG of AICTE admitted from 2012 admission (i.e. admitted under Autonomous Status) under non-credit based scheme to improve their division after completion of degree as per the following guidelines:
+Examination Branch of Guru Nanak Dev Engineering College is going to conduct examination for the students of UG and PG of AICTE admitted from 2012 admission (i.e. admitted under Autonomous Status) under credit and non-credit based scheme to improve their division after completion of degree as per the following guidelines:
 
 1.	Students can download Examination Form from [Improvement exam Form Nov-2020](IEF.pdf)
 
@@ -34,7 +34,7 @@ As approved in 9th Academic Council Meeting held on 04.06.2018 vide Agenda No.9.
 
 Note: Incomplete form will not be accepted.
 
-The fresh applications to avail this chance will be accepted from 12/02/2021 to 17/02/2021.
+The fresh applications to avail this chance will be accepted from 12/02/2021 to 20/02/2021.
 
 Controller of Examination
 
