@@ -10,7 +10,7 @@ As per the guidelines from IKGPTU, examination branch of Guru Nanak Dev Engineer
 
 2.	Students should submit only one examination form for all semesters.
 
-3.	Duly filled Examination form (one recent colored photograph pasted on the form) along with examination fee Rs. 10,000/- (Non-Refundable) per subject must be submitted by 16-02-2021.
+3.	Duly filled Examination form (one recent colored photograph pasted on the form) along with examination fee Rs. 10,000/- (Non-Refundable) per subject must be submitted by 25-02-2021.
 
 4.	Fee should be submitted only in the form of DD in favor of Principal, GNDEC payable at Ludhiana.
 
