@@ -1,11 +1,11 @@
 ## Instructions for Candidate for ESE- Nov 2020
-•	Candidates can view status of their examination regular/reappear form (received or not received) and their date sheet (as applicable) in their student login (academics.gndec.ac.in) for end semester examinations.
+- Candidates can view status of their examination regular/reappear form (received or not received) and their date sheet (as applicable) in their student login (academics.gndec.ac.in) for end semester examinations.
 
 - Candidates can view their examination center details on institute website (gndec.ac.in) as well as their respective student logins (academics.gndec.ac.in).
 
 - No admit card for end semester examination will be issued after stipulated date.
 
-- On roll Candidates must carry admit card downloaded from academics.gndec.ac.in. 
+- On roll Candidates must carry admit card downloaded from academics.gndec.ac.in.
 
 - Non-on roll Candidates must carry admit cards which they can get from respective departments and duly signed by respective HODs (ensure it has also been stamped).
 
