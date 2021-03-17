@@ -29,6 +29,6 @@ Copy to:-
 
 2.	Dean Academics
 
-3.	Deputy Controller- (Conduct)
+3.	Assistant Controller- (Conduct)
 
 4.	All HODs
