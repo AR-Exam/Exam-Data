@@ -20,7 +20,7 @@ As per the guidelines from IKGPTU, examination branch of Guru Nanak Dev Engineer
 
 7.	Only failed subjects with complete attendance requirement for the study can be filled in the form.
 
-8.	Students, who fill Thesis as subject in special chance examination, must ensure to submit their thesis latest by 10-July-2021.
+8.	Students, who fill Thesis as subject in special chance examination, must ensure to submit their thesis latest by 26-Nov-2021.
 
 9.	Students can fill Thesis as subject in special chance examination only if all subjects of the course are cleared successfully.
 
