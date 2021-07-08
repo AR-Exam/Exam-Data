@@ -44,7 +44,7 @@ Copy to:-
 
 # Eligible Students for filling special chance Examination Form
 
-Nov/Dec -2020
+May 2021
 
 | Course                                         | Admission Year                     |
 | ---------------------------------------------- | ---------------------------------- |
